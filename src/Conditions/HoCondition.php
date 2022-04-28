@@ -1,4 +1,7 @@
 <?php
+namespace NumbersTask\Conditions;
+
+use NumbersTask\Condition;
 
 class HoCondition implements Condition {
 

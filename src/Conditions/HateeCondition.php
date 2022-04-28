@@ -1,5 +1,9 @@
 <?php
 
+namespace NumbersTask\Conditions;
+
+use NumbersTask\Condition;
+
 class HateeCondition implements Condition {
 
     public function isContains(int $number): bool
